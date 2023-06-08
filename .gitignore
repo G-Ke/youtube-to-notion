@@ -1,0 +1,7 @@
+/scratch
+/.venv
+/__pycache__
+notes.md
+pls2.json
+ytnotion.db
+.env
